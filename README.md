@@ -2,10 +2,15 @@
 
 ![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
 
+#
 
 This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind |
 
-Key Features:
+### Demo
+
+You can check out a live demo of this Notion Clone at the following link: [Demo Link](https://zero.leesiwoo.me)
+
+### Key Features:
 
 - Real-time database  🔗 
 - Notion-style editor 📝 
